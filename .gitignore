@@ -1,0 +1,4 @@
+cell-images-for-detecting-malaria.zip
+.ipynb_checkpoints
+dataset/cell_images/*
+.DS_store
